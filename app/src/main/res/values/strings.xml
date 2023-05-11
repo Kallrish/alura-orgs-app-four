@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Orgs</string>
+    <string name="user_label">Usuário:</string>
+    <string name="user_name">Nome:</string>
+    <string name="logout">Sair do App</string>
+    <string name="hint_name">Nome</string>
+    <string name="hint_description">Descrição</string>
+    <string name="hint_value">Valor</string>
+    <string name="save_button">Salvar</string>
+    <string name="menu_profile">Perfil do usuário</string>
+    <string name="menu_all_products">Todos os produtos</string>
+</resources>
